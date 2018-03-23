@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReproduceBug</string>
+    <string name="string">Value</string>
+    <string name="string_alias">@string/string</string>
+</resources>
